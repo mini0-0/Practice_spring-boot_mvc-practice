@@ -1,7 +1,5 @@
-package org.example;
+package org.example.calculate;
 
-
-import org.example.calculate.PositiveNumber;
 
 import java.util.Arrays;
 

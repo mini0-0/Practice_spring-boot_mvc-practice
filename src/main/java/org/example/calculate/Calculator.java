@@ -1,8 +1,5 @@
 package org.example.calculate;
 
-import org.example.ArithmeticOperator;
-import org.example.calculate.*;
-
 import java.util.List;
 
 public class Calculator {

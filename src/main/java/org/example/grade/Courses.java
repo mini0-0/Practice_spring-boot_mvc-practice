@@ -1,6 +1,5 @@
-package org.example;
+package org.example.grade;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Courses {
