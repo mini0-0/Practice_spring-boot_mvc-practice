@@ -4,3 +4,4 @@
 - https://github.com/serverwizard/mvc-practice
 - https://github.com/serverwizard/oop-practice/tree/master
 - https://github.com/serverwizard/was-practice
+- https://github.com/serverwizard/servlet-practice
